@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on IOS/Swift at Banco Modal.
+- 🔭 I’m currently working on IOS/Swift at NTT DATA.
 
 <div align="center">
   <a href="https://github.com/CairoOliveiraDev">

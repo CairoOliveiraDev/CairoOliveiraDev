@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on IOS/Swift at NTT DATA.
+- 🔭 I’m currently working on Tagme
 
 <div align="center">
   <a href="https://github.com/CairoOliveiraDev">
